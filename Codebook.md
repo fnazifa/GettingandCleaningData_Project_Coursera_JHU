@@ -1,4 +1,6 @@
-# Extracted Measurements Columns from Human Activity 
+# The goal of the project is to get and clean the dataset
+
+## Extracted Measurements Columns from Human Activity 
 #### Mean and Standard Deviation of accelerometer and gyro measurements
 
 * TimeDomainBodyAccelerometerMeanX
