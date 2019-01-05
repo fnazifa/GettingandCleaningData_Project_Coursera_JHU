@@ -1,2 +1,13 @@
 # GettingandCleaningData_Project_Coursera_JHU
-About this Course Before you can work with data you have to get some. This course will cover the basic ways that data can be obtained. The course will cover obtaining data from the web, from APIs, from databases and from colleagues in various formats. It will also cover the basics of data cleaning and how to make data “tidy”. Tidy data dramatically speed downstream data analysis tasks. The course will also cover the components of a complete data set including raw data, processing instructions, codebooks, and processed data. The course will cover the basics needed for collecting, cleaning, and sharing data.
+
+1. First I read data from the txt files in the train folder - subject_train, X_train, y_train; then I read from test folder - subject_test, X_test, Y_test; After that I read from features and activity files.
+
+2. I merged the train data with test data and a complete data set
+
+3. Particularly extracted out the columns with mean and standard deviation on it using grepl function
+
+4. Updated the Activity column of the data with the help of the other activity table
+
+5. Renaming the column for better readability
+
+5. Finally grouped by the data to find mean for each activity and subject
