@@ -1,18 +1,18 @@
 library(dplyr)
 
-setwd("C:/Users/rimi2/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train")
+setwd("C:/Users/farah/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/train")
 trainingSubjects <- read.table(file.path("subject_train.txt"))
 trainingValues <- read.table(file.path("X_train.txt"))
 trainingActivity <- read.table(file.path("y_train.txt"))
 
-setwd("C:/Users/rimi2/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/test")
+setwd("C:/Users/farah/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/test")
 testingSubjects <- read.table(file.path("subject_test.txt"))
 testingValues <- read.table(file.path("X_test.txt"))
 testingActivity <- read.table(file.path("y_test.txt"))
 
 ##-------****----------------------------------------------------#
 
-setwd("C:/Users/rimi2/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
+setwd("C:/Users/farah/Downloads/getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset")
 features <- read.table(file.path("features.txt"))
 activity <- read.table(file.path("activity_labels.txt"))
 #head(features)
