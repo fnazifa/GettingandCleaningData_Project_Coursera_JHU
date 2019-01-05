@@ -1,0 +1,98 @@
+# Extracted Measurements Columns from Human Activity 
+#### Mean and Standard Deviation of accelerometer and gyro measurements
+
+* TimeDomainBodyAccelerometerMeanX
+* TimeDomainBodyAccelerometerMeanY
+* TimeDomainBodyAccelerometerMeanZ
+* TimeDomainBodyAccelerometerStandard DeviationX
+* TimeDomainBodyAccelerometerStandard DeviationY
+* TimeDomainBodyAccelerometerStandard DeviationZ
+* TimeDomainGravityAccelerometerMeanX
+* TimeDomainGravityAccelerometerMeanY
+* TimeDomainGravityAccelerometerMeanZ
+* TimeDomainGravityAccelerometerStandard DeviationX
+* TimeDomainGravityAccelerometerStandard DeviationY
+* TimeDomainGravityAccelerometerStandard DeviationZ
+* TimeDomainBodyAccelerometerJerkMeanX
+* TimeDomainBodyAccelerometerJerkMeanY
+* TimeDomainBodyAccelerometerJerkMeanZ
+* TimeDomainBodyAccelerometerJerkStandard DeviationX
+* TimeDomainBodyAccelerometerJerkStandard DeviationY
+* TimeDomainBodyAccelerometerJerkStandard DeviationZ
+* TimeDomainBodyGyroscopeMeanX
+* TimeDomainBodyGyroscopeMeanY
+* TimeDomainBodyGyroscopeMeanZ
+* TimeDomainBodyGyroscopeStandard DeviationX
+* TimeDomainBodyGyroscopeStandard DeviationY
+* TimeDomainBodyGyroscopeStandard DeviationZ
+* TimeDomainBodyGyroscopeJerkMeanX
+* TimeDomainBodyGyroscopeJerkMeanY
+* TimeDomainBodyGyroscopeJerkMeanZ
+* TimeDomainBodyGyroscopeJerkStandard DeviationX
+* TimeDomainBodyGyroscopeJerkStandard DeviationY
+* TimeDomainBodyGyroscopeJerkStandard DeviationZ
+* TimeDomainBodyAccelerometerMagnitudeMean
+* TimeDomainBodyAccelerometerMagnitudeStandard Deviation
+* TimeDomainGravityAccelerometerMagnitudeMean
+* TimeDomainGravityAccelerometerMagnitudeStandard Deviation
+* TimeDomainBodyAccelerometerJerkMagnitudeMean
+* TimeDomainBodyAccelerometerJerkMagnitudeStandard Deviation
+* TimeDomainBodyGyroscopeMagnitudeMean
+* TimeDomainBodyGyroscopeMagnitudeStandard Deviation
+* TimeDomainBodyGyroscopeJerkMagnitudeMean
+* TimeDomainBodyGyroscopeJerkMagnitudeStandard Deviation
+* FrequencyuencyDomainBodyAccelerometerMeanX
+* FrequencyuencyDomainBodyAccelerometerMeanY
+* FrequencyuencyDomainBodyAccelerometerMeanZ
+* FrequencyuencyDomainBodyAccelerometerStandard DeviationX
+* FrequencyuencyDomainBodyAccelerometerStandard DeviationY
+* FrequencyuencyDomainBodyAccelerometerStandard DeviationZ
+* FrequencyuencyDomainBodyAccelerometerMeanFrequencyX
+* FrequencyuencyDomainBodyAccelerometerMeanFrequencyY
+* FrequencyuencyDomainBodyAccelerometerMeanFrequencyZ
+* FrequencyuencyDomainBodyAccelerometerJerkMeanX
+* FrequencyuencyDomainBodyAccelerometerJerkMeanY
+* FrequencyuencyDomainBodyAccelerometerJerkMeanZ
+* FrequencyuencyDomainBodyAccelerometerJerkStandard DeviationX
+* FrequencyuencyDomainBodyAccelerometerJerkStandard DeviationY
+* FrequencyuencyDomainBodyAccelerometerJerkStandard DeviationZ
+* FrequencyuencyDomainBodyAccelerometerJerkMeanFrequencyX
+* FrequencyuencyDomainBodyAccelerometerJerkMeanFrequencyY
+* FrequencyuencyDomainBodyAccelerometerJerkMeanFrequencyZ
+* FrequencyuencyDomainBodyGyroscopeMeanX
+* FrequencyuencyDomainBodyGyroscopeMeanY
+* FrequencyuencyDomainBodyGyroscopeMeanZ
+* FrequencyuencyDomainBodyGyroscopeStandard DeviationX
+* FrequencyuencyDomainBodyGyroscopeStandard DeviationY
+* FrequencyuencyDomainBodyGyroscopeStandard DeviationZ
+* FrequencyuencyDomainBodyGyroscopeMeanFrequencyX
+* FrequencyuencyDomainBodyGyroscopeMeanFrequencyY
+* FrequencyuencyDomainBodyGyroscopeMeanFrequencyZ
+* FrequencyuencyDomainBodyAccelerometerMagnitudeMean
+* FrequencyuencyDomainBodyAccelerometerMagnitudeStandard Deviation
+* FrequencyuencyDomainBodyAccelerometerMagnitudeMeanFrequency
+* FrequencyuencyDomainBodyAccelerometerJerkMagnitudeMean
+* FrequencyuencyDomainBodyAccelerometerJerkMagnitudeStandard Deviation
+* FrequencyuencyDomainBodyAccelerometerJerkMagnitudeMeanFrequency
+* FrequencyuencyDomainBodyGyroscopeMagnitudeMean
+* FrequencyuencyDomainBodyGyroscopeMagnitudeStandard Deviation
+* FrequencyuencyDomainBodyGyroscopeMagnitudeMeanFrequency
+* FrequencyuencyDomainBodyGyroscopeJerkMagnitudeMean
+* FrequencyuencyDomainBodyGyroscopeJerkMagnitudeStandard Deviation
+* FrequencyuencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency
+* angletBodyAccelerometerMean,gravity
+* angletBodyAccelerometerJerkMean,gravityMean
+* angletBodyGyroscopeMean,gravityMean
+* angletBodyGyroscopeJerkMean,gravityMean
+* angleX,gravityMean
+* angleY,gravityMean
+* angleZ,gravityMean
+
+# The Activity Labels are:
+
+* WALKING: subject was walking during the test
+* WALKINGUPSTAIRS: subject was walking up a staircase during the test
+* WALKINGDOWNSTAIRS: subject was walking down a staircase during the test
+* SITTING: subject was sitting during the test
+* STANDING: subject was standing during the test
+* LAYING: subject was laying down during the test
